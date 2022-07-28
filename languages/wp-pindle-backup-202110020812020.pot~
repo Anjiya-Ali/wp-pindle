@@ -1,0 +1,184 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Pindle\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-10-02 08:08+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.2; wp-5.7.1\n"
+"X-Domain: wp-pindle"
+
+#: includes/class-wp-pindle-actions.php:45
+#, php-format
+msgid "%d event was updated to the system"
+msgid_plural "%d events were updated to the system"
+msgstr[0] ""
+msgstr[1] ""
+
+#: templates/shortcodes/pindle-events.php:74
+msgid "All categories"
+msgstr ""
+
+#: templates/shortcodes/pindle-events.php:90
+msgid "All dates"
+msgstr ""
+
+#: includes/class-wp-pindle-settings.php:83
+msgid "Badge for client events"
+msgstr ""
+
+#. Author of the plugin
+msgid "Bjergmedia"
+msgstr ""
+
+#: templates/shortcodes/pindle-single-event.php:57
+msgid "Buy ticket here"
+msgstr ""
+
+#: includes/functions.php:98
+msgid "Client"
+msgstr ""
+
+#: includes/functions.php:94
+msgid "Client and Featured"
+msgstr ""
+
+#: templates/shortcodes/pindle-events.php:198
+msgid "Client Events"
+msgstr ""
+
+#: templates/shortcodes/pindle-single-event.php:106
+msgid "Closed"
+msgstr ""
+
+#: includes/functions.php:62
+msgid "Event Type"
+msgstr ""
+
+#: templates/shortcodes/pindle-single-event.php:97
+msgid "Exceptions"
+msgstr ""
+
+#: includes/class-wp-pindle-settings.php:167
+msgid "Fetch"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://bjergmedia.dk"
+msgstr ""
+
+#: templates/shortcodes/pindle-events.php:58
+msgid "I am looking for..."
+msgstr ""
+
+#: includes/class-wp-pindle-actions.php:29
+msgid "Invalid security nonce"
+msgstr ""
+
+#: templates/shortcodes/pindle-single-event.php:77
+msgid "Opening Hours"
+msgstr ""
+
+#: includes/functions.php:100
+msgid "Other"
+msgstr ""
+
+#: includes/functions.php:96
+msgid "Other and Featured"
+msgstr ""
+
+#: includes/class-wp-pindle-shortcodes.php:343
+#: templates/shortcodes/pindle-events.php:127
+#: templates/shortcodes/pindle-events.php:203
+msgid "Other Events"
+msgstr ""
+
+#: includes/class-wp-pindle-settings.php:27
+msgid "Pindle API Key"
+msgstr ""
+
+#: includes/class-wp-pindle-settings.php:50
+msgid "Pindle Cities"
+msgstr ""
+
+#. Description of the plugin
+msgid "Pull events from Pindle and display them via shortcode"
+msgstr ""
+
+#: includes/class-wp-pindle-settings.php:39
+msgid "Pull New Events"
+msgstr ""
+
+#: templates/shortcodes/pindle-events.php:117
+msgid "Selected Events"
+msgstr ""
+
+#: wp-pindle.php:92
+msgid "Settings"
+msgstr ""
+
+#: includes/class-wp-pindle-settings.php:61
+msgid "Text for Client Events"
+msgstr ""
+
+#: includes/class-wp-pindle-settings.php:72
+msgid "Text for Other Events"
+msgstr ""
+
+#: includes/class-wp-pindle-actions.php:42
+msgid "There were no new events"
+msgstr ""
+
+#: includes/class-wp-pindle-settings.php:93
+msgid "Venue id for vierviborg Events"
+msgstr ""
+
+#: templates/shortcodes/pindle-events-single-content.php:77
+#: templates/shortcodes/pindle-events.php:222
+msgid "View more"
+msgstr ""
+
+#: templates/shortcodes/pindle-events.php:36
+#, php-format
+msgid ""
+"We have found <strong><span class=\"event__found_num\">%d</span></strong> "
+"event"
+msgid_plural ""
+"We have found <strong><span class=\"event__found_num\">%d</span></strong> "
+"events"
+msgstr[0] ""
+msgstr[1] ""
+
+#: templates/shortcodes/pindle-events.php:101
+msgid "Where"
+msgstr ""
+
+#. Name of the plugin
+#: includes/class-wp-pindle-settings.php:24
+#: includes/class-wp-pindle-settings.php:107
+#: includes/class-wp-pindle-settings.php:108
+#: includes/admin/templates/main.php:2
+msgid "WP Pindle"
+msgstr ""
+
+#: wp-pindle.php:153
+#, php-format
+msgid ""
+"You need to update your WordPress version to atleast version %s. Current "
+"version %s is being used."
+msgstr ""
+
+#: wp-pindle.php:147
+#, php-format
+msgid ""
+"You need to upgrade your PHP to atleast version %s. Currently %s is used. To "
+"resolve the upgrade please contact your server host."
+msgstr ""
